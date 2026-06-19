@@ -1,4 +1,4 @@
-# Vibe Coding Skill — 阿蝶的 Vibe Coding Skill
+# Vibe Coding Workflow Skill
 
 ## 概述
 一个交互式的全流程开发引导 Skill。不只是文档，更是 Agent 和用户之间的开发向导。
